@@ -40,6 +40,7 @@ I enjoy playing Diablo II Resurrected on occasion, but since I take long breaks 
 # General tips and info
 
 - The [Monarch](https://diablo.fandom.com/wiki/Monarch) is the lowest-strength shield capable of having 4 sockets.
+- To get a 1-3 socket shield go to Normal Act 2. Be alone in the act and check Fara's stock. Reroll it by leaving town or entering the sewers until you get the sockets you need (note that the items themselves won't reroll, only their stats, including sockets). A 3-socket shield usually appears within three minutes.
 - You can use multiple accounts simultaneously for trading, waypoints, rushing and for applying battle orders. See [here](#Run 2 (or more) Diablo II Resurrected instances simultaneously). 
 - "Damage is transferred to mana" and Energy Shield interact as follows: only the damage that affects your health pool is converted to mana.
 - Max block cap is: 75% and scales with shield block chance, Dexterity and a few items/skills.
